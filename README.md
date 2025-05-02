@@ -29,4 +29,4 @@ JavaScript (interações e envio de mensagem via WhatsApp)
 O layout foi adaptado para diferentes tamanhos de tela, com destaque para a versão mobile que utiliza um menu lateral retrátil e reorganização de blocos em coluna.
 
 # 🔗 Acesse o Projeto
-[Visite o portfólio online](https://cesar-port.netlify.app/)
+[Visite o portfólio online](https://cesar-portfolio-dev.netlify.app/)
