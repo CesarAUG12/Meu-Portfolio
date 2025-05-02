@@ -30,3 +30,5 @@ O layout foi adaptado para diferentes tamanhos de tela, com destaque para a vers
 
 # 🔗 Acesse o Projeto
 [Visite o portfólio online](https://cesar-portfolio-dev.netlify.app/)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9a4c7575-bbbb-46ab-a943-c0883fcf5160/deploy-status)](https://app.netlify.com/sites/cesar-portfolio-dev/deploys)
